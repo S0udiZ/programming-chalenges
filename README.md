@@ -1,1 +1,1 @@
-# programming-chalenges
+# programming-challenges
